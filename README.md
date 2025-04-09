@@ -1,4 +1,4 @@
-# 🖧 macaddress_changer_linux
+# 🖧 MacAddress_changer_linux
 
 This is a simple Python script for Linux systems that allows users to change the MAC (Media Access Control) address of a network interface using the `ifconfig` command.
 
